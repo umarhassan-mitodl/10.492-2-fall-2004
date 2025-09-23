@@ -1,0 +1,59 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Process Control Systems"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biomaterials"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ]
+  ],
+  "legacy_uid": "19eea2b8-0c93-643e-6195-7fb46bc3898f",
+  "instructors": {
+    "content": [
+      "16014cbe-1764-0851-8d3a-755b3c87120b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c306a039-220d-84fa-430d-c7f3d81c61de",
+    "website": "10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004"
+  },
+  "course_title": "Integrated Chemical Engineering Topics I: Introduction to Biocatalysis",
+  "course_description": "This course provides a brief introduction to the field of biocatalysis in the context of process design. Fundamental topics include why and when one may choose to use biological systems for chemical conversion, considerations for using free enzymes versus whole cells, and issues related to design and development of bioconversion processes. Biological and engineering problems are discussed as well as how one may arrive at both biological and engineering solutions.\n",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "10.492-2",
+  "course_image_thumbnail": {
+    "content": "4ab15855-0185-4060-3ed2-ab579c41077d",
+    "website": "10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "6eb72b11-786f-4535-bf29-35fd789e3640",
+  "site_short_id": "10.492-2-fall-2004",
+  "site_url_path": "courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004",
+  "title": "Course Metadata"
+}
