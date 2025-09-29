@@ -7,6 +7,8 @@ description: This resource includes information about general design issues, aci
 file: /courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/be1edc1a3962d8bf3471ad7c00e3889b_lecture7.pdf
 file_size: 224992
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Problem set.
 file: /courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/9ae8fcf8538329c2558f764b89648895_10492_Homework__3.pdf
 file_size: 85631
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information about required readings for some class
   sessions and three problem sets.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

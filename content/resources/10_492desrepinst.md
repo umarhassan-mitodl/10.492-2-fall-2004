@@ -4,6 +4,8 @@ description: Instructions for the final project design report.
 file: /courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/e24a2b44648af497bb631b9b5e10b772_10_492desrepinst.pdf
 file_size: 30865
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
