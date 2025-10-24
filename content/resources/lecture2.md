@@ -4,8 +4,6 @@ description: ''
 file: /courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/32e446dda0a2a8ae91322f8aad6a89cd_lecture2.pdf
 file_size: 129861
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

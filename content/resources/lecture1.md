@@ -7,8 +7,6 @@ description: 'Outline of the lecture covering the following topics: syllabus/cou
 file: /courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/a32912bca0fb967472f79707f17bf4d4_lecture1.pdf
 file_size: 276659
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
